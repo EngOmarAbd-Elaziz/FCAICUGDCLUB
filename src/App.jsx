@@ -5,34 +5,34 @@ import React, { useState, useEffect, useRef } from 'react';
 import './styles/App.css';
 
 const heroVideoFile = '/intro.mp4';
-const logoImageFile = '/omar.png';
+const logoImageFile = '/omar.webp';
 
-const omarImg = '/assets/team/omar.png';
-const mohamedImg = '/assets/team/mohamed.png';
-const joyImg = '/assets/team/joy.png';
-const andrewImg = '/assets/team/omar.png';
-const mahmoudImg = '/assets/team/omar.png';
-const yassinImg = '/assets/team/yassin.png';
-const hamadaImg = '/assets/team/hamada.png';
-const bahaaImg = '/assets/team/omar.png';
-const abdullahImg = '/assets/team/omar.png';
-const ammarImg = '/assets/team/omar.png';
-const alaaImg = '/assets/team/alaa.png';
-const ayatImg = '/assets/team/omar.png';
-const habibaImg = '/assets/team/omar.png';
-const lojainImg = '/assets/team/omar.png';
-const mariamImg = '/assets/team/mariam.png';
-const sebaImg = '/assets/team/omar.png';
-const nadaImg = '/assets/team/omar.png';
-const roaaImg = '/assets/team/omar.png';
+const omarImg = '/assets/team/omar.webp';
+const mohamedImg = '/assets/team/mohamed.webp';
+const joyImg = '/assets/team/joy.webp';
+const andrewImg = '/assets/team/omar.webp';
+const mahmoudImg = '/assets/team/omar.webp';
+const yassinImg = '/assets/team/yassin.webp';
+const hamadaImg = '/assets/team/hamada.webp';
+const bahaaImg = '/assets/team/omar.webp';
+const abdullahImg = '/assets/team/omar.webp';
+const ammarImg = '/assets/team/omar.webp';
+const alaaImg = '/assets/team/alaa.webp';
+const ayatImg = '/assets/team/omar.webp';
+const habibaImg = '/assets/team/omar.webp';
+const lojainImg = '/assets/team/omar.webp';
+const mariamImg = '/assets/team/mariam.webp';
+const sebaImg = '/assets/team/omar.webp';
+const nadaImg = '/assets/team/omar.webp';
+const roaaImg = '/assets/team/omar.webp';
 
 const vidThumbnail = '/assets/thumbnails/thumbnail1.jpg';
-const teamImg = '/assets/team/team.png';
+const teamImg = '/assets/team/team.webp';
 // import courseVideoFile from ''; 
 // import testimonialVideoFile from '';
 
 // IMPORTANT: Replace the placeholder paths with your actual asset paths.
-// Example: '/assets/team-logo.png' 
+// Example: '/assets/team-logo.webp' 
 
 // ===================================================================
 // 🛠️ 1. Dummy Data (English)
