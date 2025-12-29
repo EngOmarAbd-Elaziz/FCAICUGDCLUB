@@ -224,7 +224,7 @@ const Navbar = () => {
                             href="/registration-link"
                             target="_blank" 
                             rel="noopener noreferrer"
-                            className="cta-button mobile-cta" 
+                            className="cta-button mobile-menu-cta" 
                             onClick={() => setIsMobileMenuOpen(false)}
                         >
                             Register Now
