@@ -334,7 +334,7 @@ const WhoWeAre = () => {
                 {/* RIGHT CONTENT (Image) - This DIV moves to the left in CSS (row-reverse) */}
                 <div className="right-content">
                     {/* Replace with your actual community image path */}
-                    <img src="/assets/team/team.png" alt="Club Members Photo" />
+                    <img src={teamImg} alt="Club Members Photo" />
                 </div>
                 
                 {/* LEFT CONTENT (Text) - This DIV moves to the right in CSS (row-reverse) */}
